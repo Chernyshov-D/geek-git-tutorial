@@ -31,3 +31,5 @@
 ```
   git checkout <branch_name or hash>
 ```
+
+Read [more](https://www.markdownguide.org/basic-syntax).
