@@ -72,4 +72,11 @@
   git config --global user.name "<имя>"
 ```
 
+## Изменение последнего коммита
+
+Внести изменения в последний коммит можно параметром commit с флагом --amend.
+```
+  git commit --amend -m "<Новое сообщение для последнего коммита>"
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
