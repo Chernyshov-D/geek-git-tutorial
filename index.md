@@ -65,4 +65,11 @@
   git log
 ```
 
+## Имя пользователя
+
+Для того, чтобы установить имя пользователя используйте следующую команду
+```
+  git config --global user.name "<имя>"
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
