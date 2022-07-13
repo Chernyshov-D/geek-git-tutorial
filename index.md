@@ -32,4 +32,11 @@
   git checkout <branch_name or hash>
 ```
 
+## Проверка состояния файлов в рабочей директории и индексе
+
+Для проверки состояния файлов введите команду
+```
+  git status
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
