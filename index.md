@@ -58,4 +58,11 @@
   git rebase <имя ветку, в которую нужно влиться>
 ```
 
+## Имя пользователя
+
+Для того, чтобы установить имя пользователя используйте следующую команду
+```
+  git config --global user.name "<имя>"
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
