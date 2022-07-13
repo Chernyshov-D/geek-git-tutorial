@@ -32,4 +32,11 @@
   git checkout <branch_name or hash>
 ```
 
+## Удаление файлов из индекса и рабочей копии
+
+Для удаления файла из индекса и рабочей копии используйте следующую команду
+```
+  git rm <имя файла>
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
