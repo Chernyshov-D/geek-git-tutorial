@@ -72,4 +72,11 @@
   git config --global user.name "<имя>"
 ```
 
+## Адрес электронной почты
+
+Для того, чтобы установить адрес электронной почты используйте следующую команду
+```
+  git config --global user.email "<email>"
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
