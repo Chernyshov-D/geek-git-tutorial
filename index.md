@@ -93,4 +93,11 @@
   git checkout -b <имя создаваемой ветки>
 ```
 
+## Удаление ветки
+
+Для удаления ветки используйте следующую команду
+```
+  git branch -d <имя удаляемой ветки>
+```
+
 Read [more](https://www.markdownguide.org/basic-syntax).
